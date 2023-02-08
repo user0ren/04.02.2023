@@ -1,0 +1,11 @@
+C:\Users\user2\source\repos\brak\bin\Debug\brak.exe.config
+C:\Users\user2\source\repos\brak\bin\Debug\brak.exe
+C:\Users\user2\source\repos\brak\bin\Debug\brak.pdb
+C:\Users\user2\source\repos\brak\bin\Debug\Libr.dll
+C:\Users\user2\source\repos\brak\bin\Debug\Libr.pdb
+C:\Users\user2\source\repos\brak\obj\Debug\brak.csproj.AssemblyReference.cache
+C:\Users\user2\source\repos\brak\obj\Debug\brak.csproj.SuggestedBindingRedirects.cache
+C:\Users\user2\source\repos\brak\obj\Debug\brak.csproj.CoreCompileInputs.cache
+C:\Users\user2\source\repos\brak\obj\Debug\brak.csproj.CopyComplete
+C:\Users\user2\source\repos\brak\obj\Debug\brak.exe
+C:\Users\user2\source\repos\brak\obj\Debug\brak.pdb
